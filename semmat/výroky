@@ -1,0 +1,41 @@
+vÝROKY
+
+https://www.priklady.eu/cs/matematika/matematicka-logika/vyroky.alej
+
+výrok je oznamovací věta:
+- bratislava se nachází na slovensku 
+- 3 + 2 = 5
+
+negace:
+není pravda že...
+
+KOMPLEXNÍ VÝROKY
+alespoň 3 žáci v naší třídě mají vyznamenání. // negation // nejvýše 2 žáci v naši žáci mají vyznamenání
+_________ 						    ___________
+
+množina <3;∞)						    množina <0;2>
+
+
+NEGACE VÝROKŮ
+Každý ... je ...		//negation//	Alespoň jeden ... není ...
+ Alespoň jeden ...  je ... 	//negation//	Každý ... není ...
+ Alespoň n ... je ...(n>1)	//negation//	Nejvíce (n-1)... je ...
+ Nejvíce n ... je ... (n>=1) 	//negation//	Alespoň (n+1)... je ...
+ Právě n ... je ...		//negation//	Nejvíce (n-1) anebo alespoň (n+1) je...
+
+LOG OPERACE
+	- konjukce ^ a 
+	- disjunkce \/ nebo
+	- ostrá disjunkce \/ nebo, ale musí být jeden 1 jeden 0
+			__
+	- implikace => jestliže...potom...
+		- obměněná implikace \B => \A
+		- obrácená implikace B => A
+		
+	ekvivalence <=> ....právě tehdy, když......
+
+EXAMPLES:
+- jestliže nebude pršet, půjdu ven. \\neg\\ nebude pršet a půjdu ven
+- teplotu budu mít právě tehdy, když budu nemocen \\neg\\
+
+		∃ existen4n9 kvantifik8tor"
